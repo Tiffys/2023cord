@@ -1,6 +1,8 @@
 # 2023cord
 A theme for Discord that brings the 2023 UI back
 
+###### Profile effects, profile colors, emoji panel, pings, avatar decorations, general layout, color scheme, and banners should appear as they did in mid 2023.
+
 > [!IMPORTANT]  
 > - Enable "Sync Profile Themes" in `Settings > Accessibility` to fix broken profile colors
 > - UI Density should be on default, i wont support the other 2 options (they still kinda work though)
@@ -38,3 +40,6 @@ Paste the following in `Settings > Themes`:
 ```css
 @import url("https://tiffys.github.io/2023cord/src/main.css");
 ```
+----
+
+###### not affiliated with literally anything or anyone else
