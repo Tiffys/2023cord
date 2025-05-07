@@ -41,5 +41,9 @@ Paste the following in `Settings > Themes`:
 @import url("https://tiffys.github.io/2023cord/src/main.css");
 ```
 ----
+## Preview
+
+![Preview](https://raw.githubusercontent.com/tiffys/2023cord/master/.github/2023cord_example.jpg)
+----
 
 ###### not affiliated with literally anything or anyone else
