@@ -1,6 +1,8 @@
 @import url("https://milbits.github.io/oldcord/src/components/vars.css");
 @import url("https://milbits.github.io/oldcord/src/components/redesign.css");
 @import url("https://milbits.github.io/oldcord/src/components/oldContext.css");
+@import url("https://tiffys.github.io/2023cord/src/components/other.css");
+@import url("https://tiffys.github.io/2023cord/src/components/color.css");
 
 div[class^="topic_"] {
     width: 1vw;
