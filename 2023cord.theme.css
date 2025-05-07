@@ -1,0 +1,26 @@
+/**
+ * @name 2023cord
+ * @version 1.0
+ * @author Tiffys, milbit, kinggamingyt
+ * @source https://github.com/tiffys/2023cord
+ * @website https://github.com/tiffys/2023cord
+ * @description Restores discord's 2023 UI
+ */
+
+/*Main theme components*/
+@import url("https://tiffys.github.io/2023cord/src/main.css");
+
+/*If you want to enable/disable each individual component instead, remove the above line
+and a [slash]* below. Always enable vars.css and redesign.css */
+
+/* @import url("https://milbits.github.io/oldcord/src/components/vars.css"); */
+/* @import url("https://milbits.github.io/oldcord/src/components/redesign.css"); */
+/* @import url("https://milbits.github.io/oldcord/src/components/oldContext.css"); */
+/* @import url("https://tiffys.github.io/2023cord/src/components/other.css"); */
+/* @import url("https://tiffys.github.io/2023cord/src/components/color.css"); */
+/* @import url("https://tiffys.github.io/2023cord/src/components/misc.css"); */
+
+ /*
+  * Addons
+  * remove a "/*" below to enable one
+  */
